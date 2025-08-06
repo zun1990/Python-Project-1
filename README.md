@@ -23,4 +23,8 @@ We will be answering the following questions by comparing these two stocks
 
 * Using the OLS Regression Model create a regression equation that models the closing price (the one I think best between two stocks) against independent variables ‘days and open price.’
 
+### Visualization :
 
+We are going to visualize different aspects on daily return , yearly gain and cumulative prices based on based on closing price and volume .Also we are going to forcast future price 
+
+https://public.tableau.com/views/FinalPresentation11/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
